@@ -12,6 +12,9 @@ Google Code Jam to I/O for Women 2018
    Question - https://codejam.withgoogle.com/codejam/contest/dashboard?c=8384486#s=p0&a=4  
    Solution - [Burger Optimization](../../tree/master/Burger%20Optimization/BurgerOptimization.java)
     
-2. (Halfway there) CEO Search - https://codejam.withgoogle.com/codejam/contest/dashboard?c=8384486#s=p1&a=4
+2. (Halfway there) CEO Search -  
+   Question - https://codejam.withgoogle.com/codejam/contest/dashboard?c=8384486#s=p1&a=4  
+   Solution - [CEO Search](CEO%20Search/CEOSearch.java)  
+   
 3. (Yet to solve) - Centrists - https://codejam.withgoogle.com/codejam/contest/dashboard?c=8384486#s=p2&a=4
 4. (Yet to solve) - Tricky Trios - https://codejam.withgoogle.com/codejam/contest/dashboard?c=8384486#s=p3&a=4
