@@ -1,0 +1,244 @@
+Case #1:
+IO
+/O
+OI
+Case #2:
+IO/
+Case #3:
+IOI
+O/O
+OIO
+Case #4:
+IOIO
+////
+OIOI
+Case #5:
+IO
+//
+OI
+Case #6:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+O/////////////O
+OIOIOIOIOIOIOIO
+Case #7:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+O//////OOOOOOOO
+IOIOIOIOIOIOIOI
+Case #8:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+////////OOOOOO/
+OIOIOIOIOIOIOIO
+Case #9:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+//////OOOOOOOOO
+IOIOIOIOIOIOIOI
+Case #10:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+//////////////O
+IOIOIOIOIOIOIOI
+Case #11:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+O///////OOOOOOO
+OIOIOIOIOIOIOIO
+Case #12:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+O///////////OOO
+OIOIOIOIOIOIOIO
+Case #13:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+//////////////O
+OIOIOIOIOIOIOIO
+Case #14:
+IOIOIOI
+//////O
+OIOIOIO
+Case #15:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+/OOOOOOOOOOOOO/
+IOIOIOIOIOIOIOI
+Case #16:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+////////////OOO
+IOIOIOIOIOIOIOI
+Case #17:
+IOI
+//O
+OIO
+Case #18:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+//////////OOOOO
+OIOIOIOIOIOIOIO
+Case #19:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+////////////OO/
+OIOIOIOIOIOIOIO
+Case #20:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+Case #21:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+O/////OOOOOOOOO
+IOIOIOIOIOIOIOI
+Case #22:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+/////////////OO
+OIOIOIOIOIOIOIO
+Case #23:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+/////////////O/
+OIOIOIOIOIOIOIO
+Case #24:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+O////////////OO
+IOIOIOIOIOIOIOI
+Case #25:
+IOIOIOIOIOIOIOI
+///////////////
+OIOIOIOIOIOIOIO
+///////////////
+IOIOIOIOIOIOIOI
+O////OOOOOOOOOO
+OIOIOIOIOIOIOIO
