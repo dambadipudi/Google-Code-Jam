@@ -10,7 +10,7 @@ Google Code Jam to I/O for Women 2017
 Google Code Jam to I/O for Women 2018
 1. Burger Optimization -  
    Question - https://codejam.withgoogle.com/codejam/contest/dashboard?c=8384486#s=p0&a=4  
-   Solution - [Burger Optimization](Burger-Optimization/BurgerOptimization.java)
+   Solution - [Burger Optimization](../../tree/master/Burger%20Optimization/BurgerOptimization.java)
     
 2. (Halfway there) CEO Search - https://codejam.withgoogle.com/codejam/contest/dashboard?c=8384486#s=p1&a=4
 3. (Yet to solve) - Centrists - https://codejam.withgoogle.com/codejam/contest/dashboard?c=8384486#s=p2&a=4
