@@ -2,7 +2,7 @@
 These are the problems that I have been able to solve (or plan to solve) from Google Code Jam: 
 
 ## Google Code Jam to I/O for Women 2017
-1. Ticket Touble -  
+1. Ticket Trouble -  
    Question - https://code.google.com/codejam/contest/12224486/dashboard  
    Solution - [Ticket Trouble](Ticket%20Trouble/TicketTrouble.java)  
    
