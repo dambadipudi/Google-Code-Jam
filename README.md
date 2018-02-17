@@ -6,7 +6,10 @@ These are the problems that I have been able to solve (or plan to solve) from Go
    Question - https://code.google.com/codejam/contest/12224486/dashboard  
    Solution - [Ticket Trouble](Ticket%20Trouble/TicketTrouble.java)  
    
-2. Understudies - https://code.google.com/codejam/contest/12224486/dashboard#s=p1
+2. Understudies -  
+   Question - https://code.google.com/codejam/contest/12224486/dashboard#s=p1  
+   Solution - [Understudies](Understudies/Understudies.java)  
+   
 3. Word Search - https://code.google.com/codejam/contest/12224486/dashboard#s=p2
 4. (Yet to solve) Where Ya Gonna Call - https://code.google.com/codejam/contest/12224486/dashboard#s=p3
 
