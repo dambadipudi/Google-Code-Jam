@@ -7,8 +7,16 @@ public class CEOSearch {
 		
 		long countOfEmployeesLeft = 0;
 		long maxExpLevel = 0;
-
+		
+		//Have to sort the hashmap because it does not guarantee that it iterates in the order that the keys were added
+		List<Long> sortedExperienceLevels = new ArrayList<Long>();
+		
 		for(Long currentExperience : experienceEmployeeMap.keySet()) {
+			sortedExperienceLevels.add(currentExperience);
+		}
+		Collections.sort(sortedExperienceLevels);
+		
+		for(Long currentExperience : sortedExperienceLevels) {
 			long currentEmployees = experienceEmployeeMap.get(currentExperience);
 			countOfEmployeesLeft = currentEmployees + Math.max(0, countOfEmployeesLeft - currentExperience*currentEmployees);
 			if(currentExperience > maxExpLevel) {
