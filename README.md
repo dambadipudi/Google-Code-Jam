@@ -21,7 +21,7 @@ These are the problems that I have been able to solve (or plan to solve) from Go
    Question - https://codejam.withgoogle.com/codejam/contest/dashboard?c=8384486#s=p0&a=4  
    Solution - [Burger Optimization](Burger%20Optimization/BurgerOptimization.java)
     
-2. (Halfway there) CEO Search -  
+2. CEO Search -  
    Question - https://codejam.withgoogle.com/codejam/contest/dashboard?c=8384486#s=p1&a=4  
    Solution - [CEO Search](CEO%20Search/CEOSearch.java)  
    
